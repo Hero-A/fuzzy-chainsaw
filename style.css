@@ -1,0 +1,45 @@
+.first_header{
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.verses_symbol{
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#google_lens{
+    width: 4%;
+}
+
+#mobile_net{
+    width: 14%;
+}
+
+.image_responsive{
+    width: 140%;
+    margin-top: 54;
+}
+
+.the_cold{
+    width: 79%;
+    height: 79%;
+}
+
+body{
+    text-align: center;
+    background-color: darkturquoise;
+    font-size: 19;
+}
+
+.image_responded{
+    height: 300;
+}
+
+.image_response{
+    height: 300;
+}
+
+.image_respond{
+    height: 300;
+}
